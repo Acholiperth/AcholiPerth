@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+        <title>Hobart United FC</title>
+        <!-- META TAGS -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="user-scalable=0,width=device-width,height=device-height,initial-scale=1,maximum-scale=1" />
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <!-- CSS FILES -->
+        <link href="images/favicon.ico" src="home" rel="shortcut icon" type="image/x-icon" />
+        <link href="css/normalize.css" rel="stylesheet" type="text/css">
+        <link href="css/animate.css" rel="stylesheet" type="text/css">
+        <link href="css/flexslider.css" rel="stylesheet" type="text/css" />
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link href="css/colors.css" rel="stylesheet" type="text/css">
+        <link href="css/colorbox.css" rel="stylesheet" type="text/css">
+        <link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css">
+        <link href="css/media.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="js/modernizr.js"></script>
+		
+        <!--[if lt IE 9]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+		
+		<script type='text/javascript'>
+			var isCtrl = false;
+			document.onkeyup=function(e)
+			{
+				if(e.which == 17)
+				isCtrl=false;
+			}
+			document.onkeydown=function(e)
+				{
+					if(e.which == 123)
+					isCtrl=true;
+					if (((e.which == 85) || (e.which == 65) || (e.which == 88) || (e.which == 67) || (e.which == 86) || (e.which == 2) || (e.which == 3) || (e.which == 123) || (e.which == 83)) && isCtrl == true)
+					{
+					alert('Copying disable Hobart United FC  property Copyright © 2080');
+					return false;
+					}
+				}
+				// right click code
+			var isNS = (navigator.appName == "Netscape") ? 1 : 0;
+			if(navigator.appName == "Netscape") document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);
+			function mischandler(){
+				alert('Copying disable Hobart United FC  property Copyright © 2080');
+			return false;
+			}
+			function mousehandler(e){
+			var myevent = (isNS) ? e : event;
+			var eventbutton = (isNS) ? myevent.which : myevent.button;
+			if((eventbutton==2)||(eventbutton==3)) return false;
+			}
+			document.oncontextmenu = mischandler;
+			document.onmousedown = mousehandler;
+			document.onmouseup = mousehandler;
+			//select content code disable  alok goyal
+				function killCopy(e){
+				return false
+				}
+				function reEnable(){
+				return true
+				}
+				document.onselectstart=new Function ("return false")
+				if (window.sidebar){
+				document.onmousedown=killCopy
+				document.onclick=reEnable
+				}
+		</script>
+
+		<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+			<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+			<script>
+			window.addEventListener("load", function(){
+			window.cookieconsent.initialise({
+			  "palette": {
+				"popup": {
+				  "background": "#000",
+				  "text": "#0f0"
+				},
+				"button": {
+				  "background": "transparent",
+				  "text": "#0f0",
+				  "border": "#0f0"
+				}
+			  },
+			  "position": "top"
+			})});
+			</script>
+    <body>
+        <!-- SUB MENU -->
+
+        <div class="clear"></div>
+        <!-- HEADER -->
+        <header id="header">
+            <div class="logo">
+                <img src="images/logo.png" alt="" />
+                <span>Hobart United FC Official Site</span>
+            </div>
+        </header>
+        <div class="clear"></div>
+        <!-- MAIN MENU -->
+<section id="mainmenu-container">
+            <a class="toggleMenu" href="#">Menu</a>
+				<nav>
+					<ul id="mainmenu">
+						<li>
+							<a href="home">
+							<span>Home</span>
+							</a>
+								<ul>
+									<li>
+										<a href="news">
+										<span>NEWS LETTER</span>
+										</a>
+									</li>
+									<li>
+										<a href="youtube">
+										<span>HUFC TV</span>
+										</a>
+									</li>
+								</ul>
+						</li>
+						<li>
+							<a href="">
+							<span>TEAMS</span>
+							</a>
+								<ul>
+
+									<li>
+										<a href="">
+										<span>SQUAD</span>
+										</a>
+											<ul>
+												<li>
+													<a href="steam">
+													<span>SENIORS</span>
+													</a>
+												</li>
+												<li>
+													<a href="rteam">
+													<span>RESERVES</span>
+													</a>
+												</li>
+												<li>
+													<a href="lteam">
+													<span>LADIES</span>
+													</a>
+												</li>
+												<li>
+													<a href="yteam">
+													<span>YOUTH</span>
+													</a>
+												</li>
+											</ul>
+									</li>
+								</ul>
+						</li>
+						<li>
+							<a href="">
+							<span>EVENTS</span>
+							</a>
+								<ul>
+									<li>
+										<a href="http://websites.sportstg.com/assoc_page.cgi?assoc=8296&pID=1">
+										<span>Fixtures</span>
+										</a>
+									</li>
+									<li>
+										<a href="result">
+										<span>Match Result</span>
+										</a>
+									</li>
+								</ul>
+						</li>
+						<li>
+							<a href="history">
+							<span>HISTORY</span>
+							</a>
+						</li>
+						<li>
+							<a href="galleries">
+							<span>Gallery</span>
+							</a>
+						</li>
+						<li>
+							<a href="contact">
+							<span>Contact</span>
+							</a>
+						</li>
+						<li>
+							<a href="shop" >
+							<span > Shopping </span>
+							</a>
+						</li>
+					</ul>
+				</nav>
+        </section>
+        <!-- MAIN CONTAINER -->
+        <section class="maincontainer">
+            <!-- FLEXSLIDER -->
+            <section class="flex-wrapper">
+                <div id="slider" class="flexslider">
+                    <ul class="slides">
+						<li height="150" width="500">
+                            <div class="flex-title">
+                                <h3>Happy New Year </h3>
+                                <p>From the Hobart united Staff</p>
+                            </div>
+                            <img src="images/hufcnew.gif" height="270" width="500" alt="" />
+                        </li>
+                        <li height="150" width="500">
+                            <div class="flex-title">
+                                <h3>Youth Traing & Under 18's</h3>
+                                <p>Training at Cosgrove From 5:30 Pm</p>
+                            </div>
+                            <img src="images/TN.jpg" height="270" width="500" alt="" />
+                        </li>
+                        <li height="150" width="500">
+                            <div class="flex-title">
+                                <h3>Under 16 Champions 2018</h3>
+                                <p>The under sixteen Squad that won  their Season</p>
+                            </div>
+                            <img src="images/16hufc.jpg" height="150" width="500" alt="" />
+                        </li>
+						<li height="150" width="500">
+							  <div class="flex-title">
+                                <h3>Tasmanian Police</h3>
+                                <p>Giving holiday to kids who have migrated</p>
+                            </div>
+                            <img src="images/hufckp.jpg" height="150" width="500" alt="" />
+						</li>
+                        <li height="150" width="500">
+                            <div class="flex-title">
+                                <h3>Seniors & Reserves Traning </h3>
+                                <p>Starting Jan 8th Every Tuesdays 6pm-8pm at Cosgrove high School </p>
+                            </div>
+                            <img src="images/TN3.jpg" height="250" width="500" alt="" />
+                        </li>
+                        <li height="150" width="500">
+                            <div class="flex-title">
+                                <h3>Under 15 united vs Warriors</h3>
+                                <p>our Youth took on U15 Olympia FC 
+									at Warrior Park for a friendly match. </p>
+                            </div>
+                            <img src="images/15hufc.jpg" alt="" />
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <div class="clear"></div>
+            <!-- FIXTURE TITLE -->
+            <div class="scores-title">Upcoming Matches & Latest News</div>
+            <!-- FIXTURE SLIDER -->
+            <section class="transparent-bg">
+                <div id="fixture">
+                    <div class="slide-content">
+                        <div class="match-results">
+                            <span>Hobart united FC</span>
+                            <span class="score">? - ?</span>
+                            <span>TBA </span>
+                        </div>
+                        <div class="match-place">
+                            <span>2019 - 10:00 PM at KGV</span>
+                            <span class="red">
+                                <a href="shop">Buy Ticket</a>
+                            </span>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="clear"></div>
+            </section>
+            <!-- PAGE CONTAINER -->
+            <section class="pagecontainer">
+                <!-- LEFT CONTAINER -->
+                <section class="leftcontainer">
+                    <h1>Latest News</h1>
+                    <!-- POST -->
+                    <article class="post">
+                        <figure>
+                            <a href="#">
+                                <img src="images/15hufc.jpg"  height="" width="" alt="" />
+                            </a>
+                            <figcaption>
+                                <h2>Under 15 United VS Warriors</h2>
+                                <div class="post-date">24,Nov 2018</div>
+                            </figcaption>
+                        </figure>
+                        <p> On the 24th of November our Youth took on U15 Olympia FC 
+							   at Warrior Park for a friendly match. Our Boys put on a 
+							   very strong display. At half time it was 1-1. It was only 
+							   a late couple of goals that prevented them from getting a result. 
+							   Well done to both teams. We look forward to playing them again 
+							   in the pre-season series next year many thanks to Olympia FC for hosting us
+                            
+                        </p>
+                    </article>
+                    <hr/>
+				   <!-- POST -->
+                    <article class="post">
+                        <figure>
+                            <a href="#">
+                                <img src="images/prhufc.jpg" height="" width="" alt="" />
+                            </a>
+                            <figcaption>
+                                <h2>United vs Inmates</h2>
+                                <div class="post-date">13,Oct 2018</div>
+                            </figcaption>
+                        </figure>
+                        <p>Some of our Hobart United players enjoyed a match 
+							against Risdon Prison inmates on Saturday.
+							A great day was had by all.
+							Hobart United come away with the win 4–2.
+							Goals by Sean Heathorn, Xavier Lane-Mullins, Omar Carrillo & Hassan Ahmed.
+							Sean Heathorn was awarded man of the match 
+                            
+                        </p>
+                    </article>
+                    <hr/>
+                    <!-- POST -->
+                    <article class="post">
+                        <figure>
+                            <a href="#">
+                                <img src="images/TN3.jpg" height="" width="" alt="" />
+                            </a>
+                            <figcaption>
+                                <h2>Seniors & Reserves Training</h2>
+                                <div class="post-date">11,Dec 2018</div>
+                            </figcaption>
+                        </figure>
+                        <p>
+						 pre-season training for Reserves & seniors 
+						 starting Tuesday 8th Jan from 6-8pm 
+						 and then every Tuesday & Thursday after that. 
+						 Venue for January is cosgrove high school.
+                        </p>
+                    </article>
+                    <hr/>
+                    
+                </section>
+                <!-- RIGHT CONTAINER -->
+                <section class="rightcontainer">
+                    <!-- SIDEBAR BOX -->
+                    <div class="sidebarbox">
+					
+                    </div>
+                    <!-- SIDEBAR BOX -->
+                    <div class="sidebarbox">
+                        <h3>About Hobart United FC</h3>
+                        <p>Hobart United Football Club is a Football club that plays out of Hobart, Tasmania. 
+						As well as a senior team the club also have a reserve team and regularly field youth 
+						and women's teams. Hobart United plays their home games at Pontville Oval in Brighton, Tasmania. 
+						Hobart United is well known for its multicultural HISTORY.
+                            <a href="history">Read More...</a>
+                        </p>
+                    </div>
+                    <!-- SIDEBAR BOX -->
+                    <div class="sidebarbox">
+                        <div class="sidebarbox-title">
+                            <h3>Men's Southern Championship</h3>
+                        </div>
+                        <!-- TABLE -->
+						<div style="border: 6px solid #117013; overflow: hidden; margin: 1px auto; max-width: 975px;">
+						<iframe sandbox  scrolling="no" src="http://websites.sportstg.com/comp_info.cgi?c=1-8296-0-471029-0&pool=1001&a=LADDER" style="border: 0px none; margin-left: -68px; height: 810px; margin-top: -329px; width: 680px;">
+						</iframe>
+						</div>
+                    </div>
+                    
+                </section>
+            </section>
+            <div class="clear"></div>
+            <!-- SPONSORS TITLE -->
+            <div class="logos-title">Sponsors</div>
+            <!-- SPONSORS SLIDER -->
+            <section class="transparent-bg">
+                <div id="logos">
+                    <div class="slide">
+                        <a href="https://www.bulknutrients.com.au/">
+                            <img src="images/photos/bnps.png" alt="" />
+                        </a>
+                    </div>
+                    <div class="slide">
+                        <a href="https://edmundricecampswa.com.au/">
+                            <img src="images/photos/erc.png" alt="" />
+                        </a>
+                    </div>
+                    <div class="slide">
+                        <a href="#">
+                            <img src="images/photos/utd.png" alt="" />
+                        </a>
+                    </div>
+                    <div class="slide">
+                        <a href="https://www.bulknutrients.com.au/">
+                            <img src="images/photos/bnps.png" alt="" />
+                        </a>
+                    </div>
+                    <div class="slide">
+                        <a href="https://edmundricecampswa.com.au/">
+                            <img src="images/photos/erc.png" alt="" />
+                        </a>
+                    </div>
+                </div>
+            </section>
+            <!-- FOOTER -->
+            <footer id="footer">
+                
+                <div class="clear"></div>
+                <!-- COPYRIGHT -->
+                <a href="//www.dmca.com/Protection/Status.aspx?ID=7cb6d3ce-196f-4aed-9b4e-dc8ba70c9206" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-09.png?ID=7cb6d3ce-196f-4aed-9b4e-dc8ba70c9206"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+                &nbsp; &nbsp; Hobart United FC Copyright &copy; 2080
+                <!-- SOCIAL ICONS -->
+                <ul class="social-icons">
+                    <li>
+                        <a href="https://www.facebook.com/groups/Hobartunitedfc/">
+                            <img class="social-icon" src="images/social-icons/facebook.png" alt="Facebook" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/HobartUtdFC">
+                            <img class="social-icon" src="images/social-icons/twitter.png" alt="Twitter" />
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://www.youtube.com/user/HobartUnited">
+                            <img class="social-icon" src="images/social-icons/youtube.png" alt="YouTube" />
+                        </a>
+                    </li>
+                </ul>
+            </footer>
+            <!-- BACK TO TOP BUTTON -->
+            <a href="#" class="back-to-top"></a>
+        </section>
+        <!-- JS FILES -->
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/backstretch.js"></script>
+        <script type="text/javascript" src="js/jquery.flexslider.js"></script>
+        <script type="text/javascript" src="js/jflickrfeed.min.js"></script>
+        <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+        <script type="text/javascript" src="js/jquery.colorbox-min.js"></script>
+        <!-- BG IMAGE -->
+        <script type="text/javascript">
+            jQuery(window).load(function() {
+                "use strict";
+                jQuery('body').backstretch("images/photos/bg-blurred.jpg");
+            });
+        </script>
+        <!-- SPONSORS SLIDER -->
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                jQuery('#logos').bxSlider({
+                    slideWidth: 235,
+                    pager: false,
+                    minSlides: 2,
+                    maxSlides: 5,
+                    infiniteLoop: false,
+                    hideControlOnEnd: true,
+                    slideMargin: 10
+                });
+            });
+        </script>
+        <!-- FIXTURE SLIDER -->
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                "use strict";
+                jQuery('#fixture').bxSlider({
+                    pager: false,
+                    infiniteLoop: false,
+                    hideControlOnEnd: true
+                });
+            });
+        </script>
+        <script src="js/custom.js" type="text/javascript"></script>
+    </body>
+
+
+
+</html>
