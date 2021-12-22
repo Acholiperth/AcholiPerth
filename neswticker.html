@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+/* WRAPPER */
+.tickerv-wrap {
+  background: #eee;
+  box-sizing: content-box;
+  height: 25px; /* Take note of this */
+  overflow: hidden; /* Hide scrollbars */
+  padding: 10px;
+} 
+
+/* TICKER ANIMATION */
+@keyframes tickerv {
+  0%   {margin-top: 0;}
+  /* Quite literally -ve height of wrapper */
+  25%  {margin-top: -26px;} /* 1 X 25 px */
+  50%  {margin-top: -52px;} /* 2 X 25 px */
+  75%  {margin-top: -78px;} /* 3 X 25 px */
+  100% {margin-top: 0;} /* Back to first line */
+}
+.tickerv-wrap ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  animation-name: tickerv; /* Loop through items */
+  animation-duration: 1000s;
+  </style>
+  <div class="tickerv-wrap"><ul>
+  <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+  <li>Aliquam consequat varius consequat.</li>
+  <li>Fusce dapibus turpis vel nisi malesuada sollicitudin.</li>
+  <li>Pellentesque auctor molestie orci ut blandit.</li>
+</ul></div>
+  
+</html> 
